@@ -7,6 +7,8 @@ The past few years have seen giant leaps in machine learning, deep learning, and
 
 In this workshop, the participants will experience a hands-on tutorial on using open-source software tools to extract semantic information and model objects in 3D point clouds. The participants will use provided functions in CloudCompare, Python, Open3D, and PyTorch to implement tasks such as object recognition and semantic modeling of building elements. The tutorial will provide step-by-step demos on how to implement various point clouds processing algorithms such as classification and segmentation in PyTorch. The workshop will end with an open-ended discussion on recent trends, application areas and future directions for this research area.
 
+![Example](screenshot.png?raw=true))
+
 **NumPy Library**
 
 NumPy is an open-source Python library for numerical computing. Documentation for NumPy can be found [here](https://numpy.org/doc/stable/user/basics.html).
